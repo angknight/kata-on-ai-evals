@@ -3,7 +3,7 @@
 ## Kata Context 
 
 Claude can create a React component that passes various tests you throw at it but that doesn't mean 
-everythign about it is necessarily correct. This kata shows why, and how to catch it with an eval.
+everything about it is necessarily correct. This kata shows why and how to catch it with an eval.
 
 You will ask Claude to write a simple `Banner` UI component containing text on a colored background, 
 then measure how often what it creates is actually **readable**. As you work through this kata,
