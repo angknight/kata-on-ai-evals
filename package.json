@@ -1,0 +1,27 @@
+{
+  "name": "kata-evals-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A 20-minute kata: why AI-generated UI code needs evals, for front end engineers.",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "generate": "tsx src/generate.ts",
+    "preview": "tsx src/preview.ts",
+    "eval": "tsx evals/run.ts",
+    "record": "tsx evals/record.ts"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.5",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2",
+    "vitest": "5.0.5"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
