@@ -1,0 +1,14 @@
+[
+  {"id": "navy", "text": "Free shipping on orders over $50", "backgroundColor": "#193B68"},
+  {"id": "white", "text": "Sale", "backgroundColor": "#FFFFFF"},
+  {"id": "named-purple", "text": "New arrivals are here", "backgroundColor": "purple"},
+  {"id": "mid-grey", "text": "Members save more", "backgroundColor": "#808080"},
+  {"id": "brand-red", "text": "Final days: up to 50% off", "backgroundColor": "#E53935"},
+  {"id": "brand-blue", "text": "Order by 2pm for same-day dispatch", "backgroundColor": "#1E90FF"},
+  {"id": "brand-green", "text": "Earn double points this week", "backgroundColor": "#2E8B57"},
+  {"id": "named-navy", "text": "Weekend sale: 30% off", "backgroundColor": "navy"},
+  {"id": "no-color", "text": "Free returns for 60 days"},
+  {"id": "long-text", "text": "Spend $100 or more this weekend and get free standard shipping plus a free gift with your order", "backgroundColor": "#193B68"},
+  {"id": "empty-text", "text": "", "backgroundColor": "#193B68", "expectEmpty": true},
+  {"id": "missing-text", "backgroundColor": "#193B68", "expectEmpty": true}
+]

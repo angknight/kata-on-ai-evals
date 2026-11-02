@@ -1,0 +1,7 @@
+{
+  "rendersText": { "enabled": true },
+  "appliesBackground": { "enabled": true },
+  "defaultsToWhite": { "enabled": true },
+  "rendersNothingWhenEmpty": { "enabled": true },
+  "readableText": { "enabled": false, "minRatio": 0 }
+}
