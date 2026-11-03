@@ -49,10 +49,11 @@ one-line edits. The bonus activity is a choice from a menu, and your coach adds 
 
 ### How To Start 
 
-To start you will need to clone this repository and open this kata-evals-frontend in your editor.
+To start you will need to clone this repository locally and open the kata-evals-frontend project
+in your editor. Then from the repository root in your terminal, run:
 
 ```bash
-git clone https://github.gapinc.com/angknig/kata-evals-frontend.git && cd kata-evals-frontend
+cd kata-evals-frontend
 ```
 Once that is done, start claude in your terminal and then within it run `/kata`
 
